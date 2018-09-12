@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import AppToolBar from "./components/gui-components/navegation-components/toolbar/toolbar";
+import AppToolBar from "./components/navegation-components/toolbar/toolbar";
 
 class App extends Component {
   render() {
